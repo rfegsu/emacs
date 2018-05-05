@@ -1,3 +1,3 @@
-#H1 README
+README
 ---
 Repository for files I create while learning emacs
